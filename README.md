@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Gaurav 👋
 
-<!--
-**gauravraut692-lang/gauravraut692-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Data Science Enthusiast  
 
-Here are some ideas to get you started:
+💡 Passionate about analyzing data and building insights using Python, SQL, and Excel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+- Python (Pandas, NumPy)
+- SQL (Joins, Queries)
+- Excel (Pivot Tables, VLOOKUP)
+- Data Analysis
+- Data Visualization (Matplotlib)
+- Machine Learning (Linear Regression)
+- EDA (Exploratory Data Analysis)
+
+---
+
+## 📊 Projects
+
+### 🔹 Sales Data Analysis Dashboard
+- Analyzed 500+ sales records  
+- Built dashboard using Excel  
+- Identified trends and insights  
+
+### 🔹 Student Performance Analysis
+- Performed EDA using Python  
+- Visualized study patterns and results  
+
+### 🔹 Salary Prediction Model
+- Built ML model using Linear Regression  
+- Predicted salary based on experience  
+
+---
+
+## 📫 Contact Me
+📧 Email: gaurav.raut692@gmail.com  
+📍 Nagpur, India  
+
+---
+
+⭐ Currently looking for Data Analyst / Data Science opportunities
