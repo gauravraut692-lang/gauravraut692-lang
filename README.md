@@ -1,8 +1,8 @@
 # Hi, I'm Gaurav 👋
 
-🎯 Aspiring Data Analyst | Data Science Enthusiast  
+🎯 Data Analyst | Aspiring Data Scientist  
 
-💡 Passionate about analyzing data and building insights using Python, SQL, and Excel  
+💡 Passionate about analyzing data and generating insights using Python, SQL, and Excel  
 
 ---
 
@@ -11,26 +11,24 @@
 - SQL (Joins, Queries)
 - Excel (Pivot Tables, VLOOKUP)
 - Data Analysis
-- Data Visualization (Matplotlib)
-- Machine Learning (Linear Regression)
+- Data Visualization
+- Machine Learning (Basic)
 - EDA (Exploratory Data Analysis)
 
 ---
 
 ## 📊 Projects
 
-### 🔹 Sales Data Analysis Dashboard
-- Analyzed 500+ sales records  
-- Built dashboard using Excel  
-- Identified trends and insights  
-
 ### 🔹 Student Performance Analysis
-- Performed EDA using Python  
-- Visualized study patterns and results  
+- Created dataset and analyzed relationship between study hours and marks  
+- Built simple chart using Excel  
+- Found that higher study time leads to better performance  
 
-### 🔹 Salary Prediction Model
-- Built ML model using Linear Regression  
-- Predicted salary based on experience  
+---
+
+## 📈 Currently Learning
+- Python for Data Analysis  
+- Machine Learning Basics  
 
 ---
 
@@ -40,4 +38,4 @@
 
 ---
 
-⭐ Currently looking for Data Analyst / Data Science opportunities
+⭐ Open to Data Analyst / Data Science Internship Opportunities
